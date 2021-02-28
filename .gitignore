@@ -1,0 +1,9 @@
+*.log
+*.pyc
+auto_gfw.pyc
+hello.py
+nohup.out
+__pycache__
+run.sh
+server.py
+wget-log
